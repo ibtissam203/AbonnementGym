@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HP\\source\\repos\\EXO_GYM\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{64CBCEBF-83F0-4A15-8751-17E56B784352}|EXO_GYM\\EXO_GYM.vcxproj|C:\\Users\\HP\\source\\repos\\EXO_GYM\\EXO_GYM\\EXO_GYM.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{64CBCEBF-83F0-4A15-8751-17E56B784352}|EXO_GYM\\EXO_GYM.vcxproj|solutionrelative:EXO_GYM\\EXO_GYM.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64CBCEBF-83F0-4A15-8751-17E56B784352}|EXO_GYM\\EXO_GYM.vcxproj|C:\\Users\\HP\\source\\repos\\EXO_GYM\\EXO_GYM\\Abonnement_premium.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{64CBCEBF-83F0-4A15-8751-17E56B784352}|EXO_GYM\\EXO_GYM.vcxproj|solutionrelative:EXO_GYM\\Abonnement_premium.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64CBCEBF-83F0-4A15-8751-17E56B784352}|EXO_GYM\\EXO_GYM.vcxproj|C:\\Users\\HP\\source\\repos\\EXO_GYM\\EXO_GYM\\Abonnement_premium.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{64CBCEBF-83F0-4A15-8751-17E56B784352}|EXO_GYM\\EXO_GYM.vcxproj|solutionrelative:EXO_GYM\\Abonnement_premium.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64CBCEBF-83F0-4A15-8751-17E56B784352}|EXO_GYM\\EXO_GYM.vcxproj|C:\\Users\\HP\\source\\repos\\EXO_GYM\\EXO_GYM\\Abonnement_Gym.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{64CBCEBF-83F0-4A15-8751-17E56B784352}|EXO_GYM\\EXO_GYM.vcxproj|solutionrelative:EXO_GYM\\Abonnement_Gym.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64CBCEBF-83F0-4A15-8751-17E56B784352}|EXO_GYM\\EXO_GYM.vcxproj|C:\\Users\\HP\\source\\repos\\EXO_GYM\\EXO_GYM\\Abonnement_Gym.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{64CBCEBF-83F0-4A15-8751-17E56B784352}|EXO_GYM\\EXO_GYM.vcxproj|solutionrelative:EXO_GYM\\Abonnement_Gym.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Abonnement_premium.cpp",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\EXO_GYM\\EXO_GYM\\Abonnement_premium.cpp",
+              "RelativeDocumentMoniker": "EXO_GYM\\Abonnement_premium.cpp",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\EXO_GYM\\EXO_GYM\\Abonnement_premium.cpp",
+              "RelativeToolTip": "EXO_GYM\\Abonnement_premium.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-26T20:39:07.636Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Abonnement_premium.h",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\EXO_GYM\\EXO_GYM\\Abonnement_premium.h",
+              "RelativeDocumentMoniker": "EXO_GYM\\Abonnement_premium.h",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\EXO_GYM\\EXO_GYM\\Abonnement_premium.h",
+              "RelativeToolTip": "EXO_GYM\\Abonnement_premium.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-10-26T20:21:34.696Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Abonnement_Gym.cpp",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\EXO_GYM\\EXO_GYM\\Abonnement_Gym.cpp",
+              "RelativeDocumentMoniker": "EXO_GYM\\Abonnement_Gym.cpp",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\EXO_GYM\\EXO_GYM\\Abonnement_Gym.cpp",
+              "RelativeToolTip": "EXO_GYM\\Abonnement_Gym.cpp",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-26T20:10:15.335Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Abonnement_Gym.h",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\EXO_GYM\\EXO_GYM\\Abonnement_Gym.h",
+              "RelativeDocumentMoniker": "EXO_GYM\\Abonnement_Gym.h",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\EXO_GYM\\EXO_GYM\\Abonnement_Gym.h",
+              "RelativeToolTip": "EXO_GYM\\Abonnement_Gym.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-10-26T20:05:13.275Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EXO_GYM.cpp",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\EXO_GYM\\EXO_GYM\\EXO_GYM.cpp",
+              "RelativeDocumentMoniker": "EXO_GYM\\EXO_GYM.cpp",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\EXO_GYM\\EXO_GYM\\EXO_GYM.cpp*",
+              "RelativeToolTip": "EXO_GYM\\EXO_GYM.cpp*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-26T20:04:22.523Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
